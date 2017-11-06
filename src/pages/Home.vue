@@ -5,9 +5,6 @@
       <mt-swipe-item class='slide2'>2</mt-swipe-item>
       <mt-swipe-item class='slide3'>3</mt-swipe-item>
     </mt-swipe>
-    <div>
-      <div class="index_nav_list row">
-    </div>
   </div>
 </template>
 
